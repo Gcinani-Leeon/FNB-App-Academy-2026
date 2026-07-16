@@ -2,7 +2,7 @@
 
 ## 🎯unit Content
 - Introduction
-- Lesson VideoVideo
+- Lesson Video
 - Reading Materials
 - Additional Resources
 - Practical Task
