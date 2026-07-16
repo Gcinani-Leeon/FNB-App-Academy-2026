@@ -14,7 +14,7 @@ f-string: ‘Welcome, [Full Name]!’
 
 ---
 
-# Outcome of Task
+# Outcome of Task 🥅
 At the end of this task, you should be competent in creating and running a basic Python script that accepts user input, stores information in variables, performs simple calculations, and displays formatted output.
 
 You have now taken your first step into programming and developed the foundational skills that will be expanded throughout the remainder of this course.
