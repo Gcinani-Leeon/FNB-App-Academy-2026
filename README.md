@@ -25,12 +25,8 @@ It demonstrates **hands-on cybersecurity skills**, including identifying, exploi
 ---
 
 ## 🧠 Skills Demonstrated
-- Web Application Security Testing  
-- Vulnerability Analysis (OWASP Top 10)  
-- Exploitation Techniques  
-- Secure Coding Awareness  
-- Technical Reporting
-- Session management analysis
+- Python Fundamentals
+-  
 
 ---
 
@@ -48,30 +44,14 @@ It demonstrates **hands-on cybersecurity skills**, including identifying, exploi
 
 ## 🛠️ Tools & Technologies
 - Linux command line
-- Burp Suite
-- Gobuster
-- Browser DevTools
-- CyberChef
-- PHP basics
-- MongoDB concepts
-- LDAP fundamentals
-- XML parsing concepts
-- Apache
-- Kali linux
+- 
 
 ---
 
 ## ⚔️ Exploitation Techniques
-- SQL Injection
-- NoSQL Injection
-- XXE Injection
-- LDAP Injection
-- Cross-Site Scripting (XSS)
-- Cross-Site Request Forgery (CSRF)
-- Path Traversal
-- Local File Inclusion (LFI)
-- File Upload Vulnerabilities
-- Remote Code Execution (RCE)
+- Hello.py
+- Variables
+- 
 
 ---
 
@@ -97,14 +77,17 @@ FNB App Academy/
 ---
 
 ## 🚀 Why This Project Matters
-This repository reflects practical cybersecurity experience, not just theory.
+This repository reflects practical full-stack experience, not just theory.
 
 ---
 
 
 ## 📬 Contact
-GitHub: https://github.com/miSSkSambo  
-
+GitHub: https://github.com/Gcinani-Leeon
+LinkedIn:linkedin.com/in/gcinani-leeon-xulu
+Facebook
+TikTok:
+X: 
 ---
 
 ## ⭐ Support
