@@ -12,5 +12,4 @@ This is the entry point for every program you will ever write.
 
 ## Variables and Data Types
 A variable is a named container for a value. You create one with the = operator: name = ‘Thabo’. Python has four primitive data types you must know: str (text in quotes), int (whole numbers), float (decimal numbers), and bool (True or False). Python detects the type automatically; you do not declare it explicitly. Use type(value) to inspect what type Python has inferred.
----
 
