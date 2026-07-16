@@ -83,11 +83,11 @@ This repository reflects practical full-stack experience, not just theory.
 
 
 ## 📬 Contact
-GitHub: https://github.com/Gcinani-Leeon
-LinkedIn:linkedin.com/in/gcinani-leeon-xulu
-Facebook
-TikTok:
-X: 
+- GitHub: https://github.com/Gcinani-Leeon
+- LinkedIn: www.linkedin.com/in/gcinani-leeon-xulu
+- Facebook: 
+- TikTok: 
+- X: 
 ---
 
 ## ⭐ Support
