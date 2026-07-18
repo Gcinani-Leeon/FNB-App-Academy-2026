@@ -14,11 +14,11 @@ Requirements
  
 
 <details>
-  <summary>Outcome of Task</summary>
+  <summary> Outcome of Task </summary>
+ 
 At the end of this task, you should be competent in creating and running a Python script that accepts user input, manipulates and formats strings using key string methods, creates usernames through string concatenation, counts characters using len(), and displays clean, formatted output using f-strings.
 </details>
 
-Before progressing to the next unit, complete the Unit 2 Quiz to check your understanding of the key string manipulation concepts covered, identify any areas that may need further practice, and reinforce your learning.
 
-Previous
-Next
+## Note 💡
+Before progressing to the next unit, complete the Unit 2 Quiz to check your understanding of the key string manipulation concepts covered, identify any areas that may need further practice, and reinforce your learning.
