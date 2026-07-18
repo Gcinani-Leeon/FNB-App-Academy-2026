@@ -161,11 +161,8 @@ If the value is not found, it returns -1. It does not raise an execution crash, 
 |Which string method converts all letters in a string to uppercase?|
 | - |
 | .title() |
-
 | .upper() ✅️ |
-
 | .lower() |
-
 | .capitalize() |
 
 <details>
@@ -190,11 +187,8 @@ Case Modification Methods</summary>
 |A learner wants to split the string 'apple,banana,mango' into a list. Which is correct?|
 | - |
 | split('apple,banana,mango', ',') |
-
 | 'apple,banana,mango'.split() |
-
 | 'apple,banana,mango'.divide(',') |
-
 | 'apple,banana,mango'.split(',') ✅️|
 
 <details>
@@ -216,8 +210,7 @@ Calling .split() with no argument defaults to splitting on whitespace.
 |-|
 | username = " Lerato " |
 | username = username.strip() |
-
-||
+|choose below|
 | \" Lerato \" |
 | \"Lerato \" |
 | \" Lerato\" |
