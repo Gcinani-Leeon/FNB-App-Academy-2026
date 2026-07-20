@@ -2,7 +2,7 @@
 
 Build a command-line contact book called contact_book.py that stores contacts as a list of dictionaries and allows the user to add, search, view, and delete contacts. This is a foundational data structure pattern used in virtually every real app.
 
-##Requirements
+## Requirements
 
 Store contacts as a list of dictionaries, each with keys: name, phone, email
 - Implement an add_contact() function that appends a new dictionary to the list
