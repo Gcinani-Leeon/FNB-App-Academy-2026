@@ -1,19 +1,29 @@
 # FNB App Academy 2026
-A personal learning reflection for my journey with FNB App Academy (IT Varsity) 2026. This repository documents sessions, resources for the cohort
+A personal learning reflection for my journey with FNB App Academy (IT Varsity) 2026. This repository documents my sessions, my reflections and resources from the program.
 > **Broadcast Link:** [FNB App Academy Portal](https://academy.appoftheyear.co.za/)
 
 ---
 
+## About this repository
+
+This repository is used to track:
+
+- broadcast schedules
+- learning notes
+- project progress
+- reflections on each module
+- useful links and resources
+
+---
+
 ## Table of contents
-About
-Schedule
-    Phase 1 — Pre-Academy & Introduction]
-    Phase 2 — Digital Skills & Entrepreneurship
-    Phase 3 — App Development
-How I use this repo
-Contributing / Notes
-Contact
-License
+
+- [About this repository](#about-this-repository)
+- [Broadcast schedule 2026](#-broadcast-schedule-2026)
+  - [Phase 1: Pre-Academy & Introduction](#phase-1-pre-academy--introduction)
+  - [Phase 2: Digital Skills & Entrepreneurship](#phase-2-digital-skills--entrepreneurship)
+  - [Phase 3: App Development](#phase-3-app-development)
+- [Links](#Social-Media-Links)
 
 ---
 
@@ -75,16 +85,16 @@ License
 
 <div align="center">
 
-<!-- Social Media Links -->
+### Social Media Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcinanileeon)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gcinanileeon)
 [![TWITTER](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Gcinani_leeon)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gcinanileeon.xulu/)
-[![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.www.tiktok.com/gcinanileeon.xulu/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.www.tiktok.com/gcinanileeon.xulu/)
 
 ---
   
 <!-- Education / Academy Badge -->
-[![FNB App Academy](https://img.shields.io/badge/FNB_App_Academy-Graduate-006A4E?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fnb.co.za)
+[![FNB App Academy](https://img.shields.io/badge/FNB_App_Academy-2025-Graduate-006A4E?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fnb.co.za)
 </div>
 
