@@ -1,18 +1,43 @@
-# FNB App Academy IT Varsity 2026
-This reflect my personal learning experience for my journey with IT Varsity which offered a wonderful opportunity to join the FNB App Academy group of 2026, I will share all details here for future purposes.
+# FNB App Academy 2026
+A personal learning reflection for my journey with FNB App Academy (IT Varsity) 2026. This repository documents sessions, resources for the cohort
 > **Broadcast Link:** [FNB App Academy Portal](https://academy.appoftheyear.co.za/)
 
 ---
 
-## 📅 Broadcast Schedule 2026
+## Table of contents
+About
+Schedule
+    Phase 1 — Pre-Academy & Introduction]
+    Phase 2 — Digital Skills & Entrepreneurship
+    Phase 3 — App Development
+How I use this repo
+Contributing / Notes
+Contact
+License
 
-## Phase 1: FNB_PREACADEMY_INTRODUCTION
+---
+
+## 📅 Broadcast Schedule 2026
+<details>
+  <summary>
+    Phase 1: FNB_PREACADEMY_INTRODUCTION
+  </summary>
+  
+> Switch to Desktop for better view
+
 | Date | Start Time | Module | Class Content |
 | :--- | :--- | :--- | :--- |
 | Mon, 13 Jul | 3:00 PM | Orientation | Orientation and Python Masterclass |
 | Tue, 21 Jul | 3:00 PM | Accenture | Learning to Earning |
+</details>
 
-### Phase 2: Digital Skills & Entrepreneurship
+<details>
+  <summary>
+     Phase 2: Digital Skills & Entrepreneurship
+  </summary>
+  
+> Switch to Desktop for better view
+  
 | Date | Start Time | Module | Class Content |
 | :--- | :--- | :--- | :--- |
 | Tue, 04 Aug | 3:00 PM | Module 1 Part 1 | Digital Literacy and Productivity Tools |
@@ -25,8 +50,15 @@ This reflect my personal learning experience for my journey with IT Varsity whic
 | Thu, 27 Aug | 3:00 PM | Module 4 Part 2 | 21st Century Work Readiness |
 | Tue, 01 Sep | 3:00 PM | Module 5 Part 1 | Community Impact and Inclusive Growth |
 | Thu, 03 Sep | 3:00 PM | Module 5 Part 2 | Community Impact and Inclusive Growth |
+</details>
 
-### Phase 2: App Development
+<details>
+  <summary>
+    Phase 3: App Development
+  </summary>
+  
+> Switch to Desktop for better view
+
 | Date | Start Time | Module | Class Content |
 | :--- | :--- | :--- | :--- |
 | Tue, 08 Sep | 3:00 PM | Module 6 | User-Centred Design and Technical Business Integration |
@@ -37,5 +69,22 @@ This reflect my personal learning experience for my journey with IT Varsity whic
 | Wed, 07 Oct | 3:00 PM | Assessment | Capstone App - Build, Test and Refine |
 | Thu, 08 Oct | 3:00 PM | Assessment | Capstone App - Build, Test and Refine |
 | Fri, 09 Oct | 3:00 PM | Presentation | Capstone Presentation and Final Assessment |
+</details>
 
 ---
+
+<div align="center">
+
+<!-- Social Media Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gcinanileeon)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gcinanileeon)
+[![TWITTER](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Gcinani_leeon)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gcinanileeon.xulu/)
+[![TikTok](https://img.shields.io/badge/tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.www.tiktok.com/gcinanileeon.xulu/)
+
+---
+  
+<!-- Education / Academy Badge -->
+[![FNB App Academy](https://img.shields.io/badge/FNB_App_Academy-Graduate-006A4E?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fnb.co.za)
+</div>
+
