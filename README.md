@@ -93,8 +93,14 @@ This repository is used to track:
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.www.tiktok.com/gcinanileeon.xulu/)
 
 ---
+## FNB ACCADEMY 2025 RECAP
+![ZOO APP](https://gcinani-leeon.github.io/Zoo-App/)  
+![CALCULATOR APP](https://gcinani-leeon.github.io/CALCULATOR/) 
+![CONTACT BOOK API APP](https://gcinani-leeon.github.io/contact-book/)
+
+---
   
 <!-- Education / Academy Badge -->
-[![FNB App Academy](https://img.shields.io/badge/FNB_App_Academy-Graduate-006A4E?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fnb.co.za)
+[![FNB App Academy](https://img.shields.io/badge/FNB_App_Academy-2025_Graduate-006A4E?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://www.fnb.co.za)
 </div>
 
