@@ -94,9 +94,9 @@ This repository is used to track:
 
 ---
 ## FNB ACCADEMY 2025 RECAP
-![ZOO APP](https://gcinani-leeon.github.io/Zoo-App/)  
-![CALCULATOR APP](https://gcinani-leeon.github.io/CALCULATOR/) 
-![CONTACT BOOK API APP](https://gcinani-leeon.github.io/contact-book/)
+[ZOO APP](https://gcinani-leeon.github.io/Zoo-App/)  
+[CALCULATOR APP](https://gcinani-leeon.github.io/CALCULATOR/) 
+[CONTACT BOOK API APP](https://gcinani-leeon.github.io/contact-book/)
 
 ---
   
